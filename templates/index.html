@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Python Port Scanner - Dashboard</title>
+<link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+<div class="container">
+<h1>Port Scanner Dashboard</h1>
+<form id="scanForm">
+<label>Target IP / Host:</label>
+<input type="text" id="target" placeholder="127.0.0.1" required />
+
+
+<label>Start Port:</label>
+<input type="number" id="start" value="1" min="1" max="65535" required />
+
+
+<label>End Port:</label>
+<input type="number" id="end" value="1024" min="1" max="65535" required />
+
+
+<button type="submit">Start Scan</button>
+</form>
+
+
+<div id="status" class="status">Idle</div>
+
+
+<table id="resultsTable">
+<thead>
+<tr><th>Port</th><th>Banner</th></tr>
+</thead>
+<tbody></tbody>
+</table>
+
+
+<div id="summary" class="summary"></div>
+</div>
+
+
+<script src="/static/script.js"></script>
+</body>
+</html>
