@@ -68,10 +68,8 @@ http://127.0.0.1:5000
 
 ## 📸 Screenshot 
 
-```
 <img width="853" height="489" alt="Screenshot 2025-12-09 164123" src="https://github.com/user-attachments/assets/7499199f-4c7e-4ffc-b1e9-a18b3db275c8" />
 
-```
 
 ---
 
