@@ -66,12 +66,10 @@ http://127.0.0.1:5000
 
 ---
 
-## 📸 Screenshot (Optional)
-
-<img width="853" height="489" alt="Screenshot 2025-12-09 164123" src="https://github.com/user-attachments/assets/7499199f-4c7e-4ffc-b1e9-a18b3db275c8" />
+## 📸 Screenshot 
 
 ```
-<img width="853" height="489" alt="image" src="https://github.com/user-attachments/assets/00c6afbc-efc3-4ee2-9a9e-55035f95d0aa" />
+<img width="853" height="489" alt="Screenshot 2025-12-09 164123" src="https://github.com/user-attachments/assets/7499199f-4c7e-4ffc-b1e9-a18b3db275c8" />
 
 ```
 
@@ -91,8 +89,6 @@ http://127.0.0.1:5000
 - Results displayed in a table dynamically
 
 
-
-If you want these, feel free to contribute or request features.
 
 ---
 
